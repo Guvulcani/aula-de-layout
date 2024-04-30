@@ -1,0 +1,57 @@
+body
+{
+    background-color: dimgray;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main
+{
+    border: 1px solid white;
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+    background-color: darkgrey;
+}
+header,section,footer
+{
+    border: 1px solid whitesmoke ;
+    margin: 1rem;
+    text-align: center;
+    background-color: wheat;
+}
+header
+{
+    min-height: 100px;
+}
+section
+{
+    min-height: 300px;
+}
+
+.box1
+{
+width: 100%;
+}
+
+footer
+{
+    min-height: 200px;
+}
+article
+{
+    display: flex;
+}
+div
+{
+    width: 50% ;
+
+}
+.box1
+{
+    width: 50%;
+}
+
